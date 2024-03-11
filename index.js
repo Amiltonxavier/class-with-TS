@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Conta_1 = require("./class/Conta");
+var ContaPF_1 = require("./class/ContaPF");
+var ContaPJ_1 = require("./class/ContaPJ");
+var pessoaF = new ContaPF_1.Contapf("pf", 290, "hello worlds");
+var pessoaPJ = new ContaPJ_1.ContaPJ("pj", 1206, "JOSE ");
+var conta = new Conta_1.Conta(230, "google");
+console.log(pessoaF.numeroConta);
+console.log(conta);
