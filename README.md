@@ -17,15 +17,16 @@ O objetivo deste projeto é demonstrar como usar classes em TypeScript para cria
 ## Como usar
 
 1. Clone este repositório em sua máquina local:
+``` https://github.com/Amiltonxavier/class-with-TS.git ```
 
 2. Navegue até o diretório do projeto:
-
+```cd class & ts ```
 
 3. Instale as dependências (se houver):
-
+```npm install ```
 
 4. Execute o projeto:
-
+```npm run dev ```
 
 ## Estrutura do Projeto
 
